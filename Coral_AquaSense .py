@@ -9,7 +9,7 @@ st.set_page_config(page_title="Coral AquaSense", layout="centered")
 st.title("💧 Coral AquaSense: Smart Water Advisor")
 
 st.markdown("""
-Meet **Bob**, a San Jose urban gardener & café owner facing water challenges. 
+Meet **Tim**, a San Jose urban gardener & café owner facing water challenges. 
 Coral AquaSense helps you optimize your water usage with AI-driven insights.
 """)
 
